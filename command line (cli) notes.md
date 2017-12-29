@@ -1,3 +1,11 @@
 - `sudo apt-get install <program>` - to install program
 - `sudo apt-get update` - update program
 - `ssh pi@<ip address>` - ssh into pi
+- `mv` - moves files or will rename file
+- `cp <org_file_name new_file_name>` - copy file
+- `rm <file name>` - remove file
+- `ls` - list files in directory
+- `cd` - takes you to user's home directory
+- `cd ..` - takes you back one directory
+- `cd ./<name of dicrectory>` - w/o ./ will also work
+- `cd -` - takes you the directory you were at
