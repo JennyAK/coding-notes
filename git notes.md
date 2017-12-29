@@ -1,0 +1,1 @@
+- `git init` - creats .git folder in directory
