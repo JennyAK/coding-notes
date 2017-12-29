@@ -1,0 +1,3 @@
+- `vim <file name>` - to write/edit code for the file, .py for python
+- `i` - to insert code
+- `:wq` - to write and quit
