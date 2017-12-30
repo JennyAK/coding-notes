@@ -4,3 +4,7 @@
 - `git re --cached <file name>` - to remove a file
 - `git commit` - saves progress, before pushing to internet
 - `git log` - shows the log of all the commits
+- `git remote add origin <link from github>` - add to a resp
+- `git pull origin master -f` -
+- `git push origin master -f` - don't use this!
+- `git ignore <file name>` - to ignore certian files, workspace (your ux stuff)
