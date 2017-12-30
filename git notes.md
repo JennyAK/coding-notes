@@ -1,1 +1,6 @@
 - `git init` - creats .git folder in directory
+- `git add <file name>` - add specific folder or . to add all folder
+- `git status` - like ls, list all the files in the directory
+- `git re --cached <file name>` - to remove a file
+- `git commit` - saves progress, before pushing to internet
+- `git log` - shows the log of all the commits
