@@ -9,3 +9,5 @@
 - `git push origin master` - updates remote repo with change made in your local repo
 - `vim .gitignore` - list files and folders that you don't want to add to the repo 
 (e.g. `.idea/workspace.xml` file in PyCharm, which has IDE stylization files wouldn't want to impose on collaborators)
+- `git clone <github url>` - how to clone repo from github
+
